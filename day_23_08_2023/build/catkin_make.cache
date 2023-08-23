@@ -1,0 +1,2 @@
+demo/leg_description:demo/leg_gazebo:demo/moveit12
+-DCATKIN_DEVEL_PREFIX=/home/bien/ROS1/pratice/no1_leg_robot/day_23_08_2023/devel -DCMAKE_INSTALL_PREFIX=/home/bien/ROS1/pratice/no1_leg_robot/day_23_08_2023/install -G Unix Makefiles
